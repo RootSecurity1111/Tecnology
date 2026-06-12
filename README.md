@@ -9,8 +9,8 @@
 <h3 align="center">🛡️ SECURITY TELEMETRY & NETWORK METRICS</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=matrix&include_all_commits=true&count_private=true" alt="Cyber Metrics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=matrix&hide_border=false" alt="Streak Ativo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RootSecurity1111&show_icons=true&theme=matrix&include_all_commits=true&count_private=true" alt="Cyber Metrics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RootSecurity1111&theme=matrix&hide_border=false" alt="Streak Ativo" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 <h3 align="center">📡 NETWORK TRAFFIC ANALYSIS (COMMIT SONAR)</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=matrix&area=true&category=commits" alt="Monitoramento de Tráfego" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RootSecurity1111&theme=matrix&area=true&category=commits" alt="Monitoramento de Tráfego" width="100%" />
 </p>
 
 ---
