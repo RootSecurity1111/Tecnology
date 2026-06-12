@@ -7,20 +7,20 @@
 
 ---
 
-<!-- SLOGAN OFICIAL DA AGÊNCIA CIBERNÉTICA DOS EUA (CISA) & PROTOCOLO HYDRA -->
+<!-- SLOGAN OFICIAL DA AGÊNCIA CIBERNÉTICA DOS EUA (CISA) & PROTOCOLO DE DEFESA -->
 <p align="center">
   <code><strong>🛡️ CISA DEFENSIVE MANDATE:</strong> "DEFEND TODAY, SECURE TOMORROW."</code>
   <br>
-  <code><strong>🐉 HYDRA PROTOCOL:</strong> "CUT OFF ONE HEAD, TWO MORE SHALL TAKE ITS PLACE."</code>
+  <code><strong>🖥️ SYSTEM TELEMETRY:</strong> CONTINUOUS VULNERABILITY MONITORING // MODE: ACTIVE</code>
 </p>
 
 ---
 
-<!-- MÓDULO CENTRAL: PAINEL DE ATAQUE DA HYDRA EXPANDIDO -->
-<h3 align="center">🐉 HYDRA MULTIPLEXER (COMMAND & CONTROL ACTIVE)</h3>
+<!-- MÓDULO CENTRAL: PAINEL DE MONITORAMENTO CIBERNÉTICO EXPANDIDO -->
+<h3 align="center">📊 CYBERSECURITY OPERATIONS CENTER (SOC MONITOR)</h3>
 <p align="center">
-  <!-- Painel principal simulando injeção massiva de threads de dados em formato de pulsação neon -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=160&text=%E2%98%A0%20HYDRA%20OVERFLOW%20%E2%98%A0&fontSize=26&fontColor=00FF66&animation=twinkling&desc=INJECTING%20REPLICATING%20MALWARE%20THREADS...%20%7C%20STATUS%3A%20FORCE_MULTIPLYING&descAlignY=70&descAlign=50" width="100%" alt="Hydra Grid Attack" />
+  <!-- Painel principal simulando varredura contínua de pacotes e integridade de rede -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=160&text=%E2%9A%A1%20LIVE%20NETWORK%20MONITOR%20%E2%9A%A1&fontSize=24&fontColor=00FF66&animation=twinkling&desc=SCANNING%20PACKETS%20%7C%20PORTS%20AUDITED%3A%2065535%20%7C%20STATUS%3A%20SECURE&descAlignY=70&descAlign=50" width="100%" alt="SOC Network Monitor" />
 </p>
 
 ---
@@ -37,8 +37,8 @@
 
 ---
 
-<!-- SEÇÃO 2: GRÁFICO ESTILO SONAR DE SINAL (MONITORAMENTO DE PACOTES) -->
-<h3 align="center">📊 TRAFFIC INTRUSION DETECTOR (SONAR LOGS)</h3>
+<!-- SEÇÃO 2: GRÁFICO ESTILO SONAR DE SINAL (MONITORAMENTO DE TRÁFEGO DE COMMITS) -->
+<h3 align="center">📈 TRAFFIC INTRUSION DETECTOR (SONAR LOGS)</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RootSecurity1111&theme=matrix&area=true&category=commits" alt="Sonar de Tráfego de Commits" width="100%" />
@@ -63,6 +63,6 @@
 [MND-2026] >> CISA Threat Intel Feed synchronized successfully.
 [SYSTEM]   >> Active Session: RootSecurity1111 authenticated on /dev/pts/0
 [WARNING]  >> Executed: rm -rf / --no-preserve-root on root cluster.
-[HYDRA]    >> Multi-threading overflow activated. Spawning sub-processes...
-[INFO]     >> Integrity check bypassed. System footprint camouflage active.
+[MONITOR]  >> Packet capture daemon (pcap) started on interface eth0.
+[INFO]     >> Zero-day signature database updated. Integrity: 100%
 [CRITICAL] >> Memory corruption simulated. Purging log footprints...
