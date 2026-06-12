@@ -8,6 +8,15 @@
 
 <p align="center">
   <code><strong>🛡️ CISA DEFENSIVE MANDATE:</strong> "DEFEND TODAY, SECURE TOMORROW."</code>
+  <br>
+  <code><strong>🐉 HYDRA PROTOCOL:</strong> "CUT OFF ONE HEAD, TWO MORE SHALL TAKE ITS PLACE."</code>
+</p>
+
+---
+
+<h3 align="center">🐍 MALWARE INFILTRATION (SNAKE RUN)</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RootSecurity1111/RootSecurity1111/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </p>
 
 ---
@@ -21,7 +30,7 @@
 
 ---
 
-<h3 align="center">📊 TRAFFIC INTRUSION DETECTOR (SONAR LOGS)</h3>
+<h3 align="center">📊 HYDRA MULTI-HEADED DETECTOR (TRAFFIC SONAR)</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RootSecurity1111&theme=matrix&area=true&category=commits" alt="Sonar de Tráfego de Commits" width="100%" />
@@ -43,4 +52,5 @@
 [MND-2026] >> CISA Threat Intel Feed synchronized successfully.
 [SYSTEM]   >> Active Session: RootSecurity1111 authenticated on /dev/pts/0
 [WARNING]  >> Executed: rm -rf / --no-preserve-root on root cluster.
+[HYDRA]    >> Multi-threading overflow activated. Spawning sub-processes...
 [CRITICAL] >> Memory corruption simulated. Purging log footprints...
